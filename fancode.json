@@ -1,44 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:53:37 AM 23-11-2026",
+    "last update time": "01:25:50 PM 23-11-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249675,
-            "title": "Western Australia vs Tasmania (Sheffield Shield, 2026/27)",
-            "match_name": "Western Australia vs Tasmania",
-            "event_name": "Sheffield Shield, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Tasmania",
-            "status": "UPCOMING",
-            "startTime": "08:00:00 AM 23-11-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250685,
-            "title": "Sri Lanka Women vs Pakistan Women (ICC Women's Emerging Nations Trophy, 2026)",
-            "match_name": "Sri Lanka Women vs Pakistan Women",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250685_53149_SL-W_PAK-W_FC-WEB.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 23-11-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250651,
-            "title": "South Africa vs Bangladesh (Bangladesh tour of South Africa, 2026)",
-            "match_name": "South Africa vs Bangladesh",
-            "event_name": "Bangladesh tour of South Africa, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg",
-            "team_1": "South Africa",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 PM 23-11-2026"
-        },
         {
             "event_category": "Cricket",
             "match_id": 4250686,
@@ -86,6 +50,18 @@
             "team_2": "Napoli Knights",
             "status": "UPCOMING",
             "startTime": "06:45:00 PM 23-11-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249676,
+            "title": "South Australia vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "South Australia vs Victoria",
+            "event_name": "Sheffield Shield, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg",
+            "team_1": "South Australia",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 AM 24-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -148,18 +124,6 @@
             "startTime": "09:30:00 PM 23-11-2026"
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249676,
-            "title": "South Australia vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "South Australia vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg",
-            "team_1": "South Australia",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 AM 24-11-2026"
-        },
-        {
             "event_category": "Football",
             "match_id": 4248748,
             "title": "Al-Ittihad vs Pakhtakor Tashkent (AFC Champions League Elite 2026-27)",
@@ -196,18 +160,6 @@
             "startTime": "01:30:00 AM 24-11-2026"
         },
         {
-            "event_category": "Football",
-            "match_id": 4250754,
-            "title": "Ceuta vs Almer\u00eda (LALIGA Hypermotion 2026-27)",
-            "match_name": "Ceuta vs Almer\u00eda",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://images.fancode.com/aig/match/v1794380803724/4250754_CASACARDS_APP.png",
-            "team_1": "Ceuta",
-            "team_2": "Almer\u00eda",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 AM 24-11-2026"
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250644,
             "title": "Australia vs England (England tour of Australia, 2026)",
@@ -221,15 +173,15 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4248752,
-            "title": "Newcastle Jets vs Kashiwa Reysol (AFC Champions League Elite 2026-27)",
-            "match_name": "Newcastle Jets vs Kashiwa Reysol",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248752_53053_NJ_REY_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Kashiwa Reysol",
+            "match_id": 4250754,
+            "title": "Ceuta vs Almer\u00eda (LALIGA Hypermotion 2026-27)",
+            "match_name": "Ceuta vs Almer\u00eda",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1794380803724/4250754_CASACARDS_APP.png",
+            "team_1": "Ceuta",
+            "team_2": "Almer\u00eda",
             "status": "UPCOMING",
-            "startTime": "01:15:00 PM 24-11-2026"
+            "startTime": "01:00:00 AM 24-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -242,6 +194,18 @@
             "team_2": "Rome Gladiators",
             "status": "UPCOMING",
             "startTime": "04:30:00 PM 24-11-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248752,
+            "title": "Newcastle Jets vs Kashiwa Reysol (AFC Champions League Elite 2026-27)",
+            "match_name": "Newcastle Jets vs Kashiwa Reysol",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248752_53053_NJ_REY_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "startTime": "01:15:00 PM 24-11-2026"
         },
         {
             "event_category": "Cricket",
